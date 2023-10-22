@@ -65,7 +65,7 @@ function Structure(){
             >Get new Meme image</button>
         </div>
         <div class="meme-container">
-            <img src={"./src/assets/"+meme.randomimage} alt="API failuer System cant load this image chose another image"  className="img"/>
+            <img src={meme.randomimage} alt="API failuer System cant load this image chose another image"  className="img"/>
             <h2 class="meme-top-text">{meme.toptext}</h2>
             <h2 class="meme-bottom-text">{meme.bottomtext}</h2>
         </div>
