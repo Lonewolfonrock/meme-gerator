@@ -48,11 +48,6 @@ export default {
         },
         {
           id: '10',
-          name: 'lazy monkey',
-          url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/bisakha-datta-2qOTf5qx2_4-unsplash.jpg'
-        },
-        {
-          id: '11',
           name: 'angery boy',
           url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/stock-vector-manager-is-looking-at-the-computer-in-vector-isolated-on-the-white-background-2027016296.jpg'
         }
