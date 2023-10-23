@@ -35,7 +35,30 @@ export default {
           id: '7',
           name: 'werid man',
           url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/istockphoto-538665020-612x612.jpg'
+        },
+        {
+          id: '8',
+          name: 'werid man2',
+          url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/442377ce603053aa7c9a3b730fae67e19a2d124br1-934-945v2_uhq.jpg'
+        },
+        {
+          id: '9',
+          name: 'lazy monkey',
+          url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/bisakha-datta-2qOTf5qx2_4-unsplash.jpg'
+        },
+        {
+          id: '10',
+          name: 'lazy monkey',
+          url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/bisakha-datta-2qOTf5qx2_4-unsplash.jpg'
+        },
+        {
+          id: '11',
+          name: 'angery boy',
+          url: 'https://raw.githubusercontent.com/Lonewolfonrock/meme-gerator/main/src/assets/images/stock-vector-manager-is-looking-at-the-computer-in-vector-isolated-on-the-white-background-2027016296.jpg'
         }
+        
+
+
       ],
     },
   };
